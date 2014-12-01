@@ -1,4 +1,3 @@
-teenspirit
+Teen Spirit Game
 ==========
-
-Teen Spirit
+Landing page for Unity3d game (Hackday #34, Kaliningrad city, 2014)
