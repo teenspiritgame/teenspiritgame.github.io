@@ -1,4 +1,0 @@
-teenspirit
-==========
-
-Teen Spirit
